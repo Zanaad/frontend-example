@@ -4,6 +4,9 @@ This project is created to help learn docker configurations for frontend project
 
 > Notice, that all the information is not needed in all the exercises. Don't just copy-paste.
 
+# Deployed Application
+[Live App](https://frontend-example-4n8j.onrender.com)
+
 # Prerequisites
 
 Install [node](https://nodejs.org/en/download/). 
